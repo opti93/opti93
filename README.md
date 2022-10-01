@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning Kubernetes and Terraform<br>
+I’m currently learning Kubernetes and Terraform<br>
 
 Reach me: <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/vitalii-hovarkov-52a83a208">LinkenIn</a><br>
 
