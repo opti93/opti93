@@ -1,5 +1,5 @@
 ### Hi there 👋
-- <a href='https://www.linkedin.com/in/vitalii-hovarkov-52a83a208'>My LinkenIn</a>
+Reach me <a href='https://www.linkedin.com/in/vitalii-hovarkov-52a83a208'>LinkenIn</a>
 
 <!--
 **opti93/opti93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
