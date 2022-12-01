@@ -1,6 +1,6 @@
 ### Hi there 👋
 I’m currently learning Kubernetes and Terraform<br>
-![alt text](https://github.com/opti93/opti93/blob/main/certificate.jpg)<br>
+![alt text](https://github.com/opti93/opti93/blob/main/certificates.jpg)<br>
 Reach me: <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/vitalii-hovarkov-52a83a208">LinkenIn</a><br>
 
 <!--
