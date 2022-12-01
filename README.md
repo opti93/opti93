@@ -1,5 +1,5 @@
 ### Hi there 👋
-#I’m currently learning Kubernetes and Terraform<br>
+
 I am interested in Automation , DevOps Engineering and Cloud Engineering.
 Known to build infrastructure by using AWS, Terraform, Ansible.
 Automate pipeline using GIT, Jenkins, Docker, Docker Swarm, Kubernetes, ECS,
