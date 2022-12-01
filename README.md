@@ -9,7 +9,6 @@ programming on Python and Bash scripting.<br>
 ![alt text](https://github.com/opti93/opti93/blob/main/certificates.jpg)<br>
 Reach me: <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/vitalii-hovarkov-52a83a208">LinkenIn</a><br>
 
-![image title](https://rushter.com/counter.svg)
 
 <!--
 **opti93/opti93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
